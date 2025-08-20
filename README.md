@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 👩‍🔬 I am a first year PhD student in the Department of Earth and Environmental Sciences!
+- 🪸 I am interested in coral reef research, especially through mathematical models.
+    * I got my undergraduate degree in mathematics, so I love math as well!
+- Fun fact: I studied abroad in Australia 🦘
+
 
 <!--
 **brookesrodriguez/brookesrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
